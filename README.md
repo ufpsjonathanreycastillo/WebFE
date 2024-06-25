@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Add extensions:
+
+https://chromewebstore.google.com/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?hl=es
+![image](https://github.com/ufpsjonathanreycastillo/WebFE/assets/166736917/870a59a7-028d-416c-9d61-85fe2b9cca27)
+
+https://chromewebstore.google.com/detail/modheader-modify-http-hea/idgpnmonknjnojddfkpgkljpfnnfcklj
+
+
 ## Available Scripts
 
 In the project directory, you can run:
